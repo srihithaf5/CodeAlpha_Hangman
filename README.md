@@ -19,7 +19,7 @@ Players guess the hidden word one letter at a time. The game allows a maximum of
    ```bash
    cd path/to/your/project/folder
 
-## Screenshots
+##  Output Screenshots
 <img width="1144" height="932" alt="Screenshot 2025-08-20 194718" src="https://github.com/user-attachments/assets/df21c9f3-ba57-4c5e-b7de-cb94a866ac8e" />
 <img width="868" height="938" alt="Screenshot 2025-08-20 194902" src="https://github.com/user-attachments/assets/b2bfabff-348c-4ee8-8ed5-9c8c328b4922" />
 
